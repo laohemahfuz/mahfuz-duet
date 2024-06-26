@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahfuz-duet
 - 👀 I’m interested in software development using various programming language and framework.
-- 🌱 I’m currently learning machine learning artificial inteligence and others many algorithm which  help to build smart software or technology.
+- 🌱 I’m currently learning backend technology and machine learning artificial inteligence and others many algorithm which  help to build smart software or technology.
 - 💞️ I’m looking to collaborate on building any kinds of website, integrating machine learnig artificial inteligence.
 - 📫 Contact with me by email (mahfuz.duetcse@gmail.com)
 
